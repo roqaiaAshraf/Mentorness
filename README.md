@@ -69,6 +69,6 @@ The Resume Analyzer is a Python script designed to extract contact information a
 
 ## Contact Information
 
-For any inquiries or collaboration opportunities, feel free to reach out to me at [Your Email Address].
+For any inquiries or collaboration opportunities, feel free to reach out to me at Rokaya.ashraf49@gmail.com.
 
 Thank you for visiting my repository!
